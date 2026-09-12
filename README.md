@@ -26,6 +26,8 @@ The objective of this project was to analyze restaurant data, identify useful bu
 
 ## 📈 Dashboard
 
+![Power BI Dashboard](Screenshot%202026-09-12%20231448.png)
+
 The Power BI dashboard provides an interactive view of restaurant data using charts, cards, and slicers.
 
 ## 💡 Key Insights
